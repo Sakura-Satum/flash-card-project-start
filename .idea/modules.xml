@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../csv_file_data/.idea/csv_file_data.iml" filepath="$PROJECT_DIR$/../csv_file_data/.idea/csv_file_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flash-card-project-start.iml" filepath="$PROJECT_DIR$/.idea/flash-card-project-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../password/.idea/password.iml" filepath="$PROJECT_DIR$/../password/.idea/password.iml" />
+    </modules>
+  </component>
+</project>
